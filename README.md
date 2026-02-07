@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Worklyn
+A modern full-stack project management tool for teams.
+>>>>>>> 0c236e4d88a8461e40f76966cead2de96bf2bc73
